@@ -40,7 +40,7 @@ public class Homework02 {
 				}
 			}
 		}
-		System.out.println("總共有" + sum + "個數字可以選");
+		System.out.println("總共有" + sum5 + "個數字可以選");
 //*********************************第六題		
 		for (int j = 10; j > 0; j--) {
 			for (int i = 1; i <= j; i++) {

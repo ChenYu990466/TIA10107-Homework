@@ -2,7 +2,7 @@ package hw3;
 
 import java.util.Scanner;
 
-public class Homework3_2 {
+public class Homework0302 {
 	public static void main(String[] args) {
 		int i = (int) (Math.random() * 101) + 0;
 		Scanner sc = new Scanner(System.in);

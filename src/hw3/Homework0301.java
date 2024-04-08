@@ -1,6 +1,6 @@
 package hw3;
 import java.util.Scanner;
-public class Homework3_1 {
+public class Homework0301 {
 	public static void main(String[] args){
 		while(true) {
 			Scanner sc = new Scanner(System.in);
@@ -38,7 +38,9 @@ public class Homework3_1 {
 			else{
 				System.out.println("不是三角形");	
 			}
-			System.out.println(" ");	
+			System.out.println(" ");
+			sc.close();
 		}
+		
 	}
 }
